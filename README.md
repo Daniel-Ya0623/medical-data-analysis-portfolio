@@ -1,5 +1,8 @@
 Medical Data Analysis: Predicting Diabetic Patient Readmission
+
 Project Overview
+
+
 This project demonstrates a comprehensive data analysis workflow on a large electronic health record (EHR) dataset of diabetic patient encounters. As a data analyst consultant, my task was to explore and prepare the data for a future machine learning model to predict patient readmission.
 
 The project highlights key data skills, including data cleaning, exploratory data analysis (EDA), feature selection, and the ability to derive actionable insights from complex medical data.
@@ -31,7 +34,10 @@ Insight Communication: Communicating complex data findings (e.g., top-risk age g
 
 
 醫療數據分析專案：糖尿病患者再入院風險預測
+
 專案簡介
+
+
 這是一個關於糖尿病患者電子病歷數據的綜合性資料分析專案。作為一名資料分析顧問，我的任務是探索並準備這些數據，以用於未來預測患者再入院風險的機器學習模型。
 
 本專案展示了我的關鍵資料技能，包括數據清理、探索性資料分析 (EDA)、特徵選擇，以及從複雜的醫療數據中提取有價值的洞見。
